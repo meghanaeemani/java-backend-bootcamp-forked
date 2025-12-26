@@ -1,6 +1,6 @@
 package Operators;
 
-public class Modules {
+public class Modulus {
     public static void main (String[] args){
         int x = 42;
         double y = 42.33;
